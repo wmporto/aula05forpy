@@ -1,0 +1,13 @@
+# Criando uma lista com seis frutas
+frutas_lista = ["Maçã", "Banana", "Morango", "Uva", "Manga", "Abacaxi"]
+
+# Convertendo a lista em uma tupla
+frutas_tupla = tuple(frutas_lista)
+
+# Exibindo o conteúdo da tupla resultante
+print("As frutas armazenadas na tupla são:")
+for fruta in frutas_tupla:
+    print(f"- {fruta}")
+
+# Verificando o tipo da variável frutas_tupla
+print(f"\nTipo da variável frutas_tupla: {type(frutas_tupla)}")
