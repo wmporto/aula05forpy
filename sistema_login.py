@@ -2,7 +2,7 @@
 USUARIO_CORRETO = "admin"
 SENHA_CORRETA = "123456"
 
-# Número máximo de tentativas
+# Numero maximo de tentativas
 MAX_TENTATIVAS = 3
 
 # Inicializando o contador de tentativas
