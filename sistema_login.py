@@ -1,6 +1,6 @@
 # Definindo as credenciais corretas
 USUARIO_CORRETO = "admin"
-SENHA_CORRETA = "123456"
+SENHA_CORRETA = "654321"
 
 # Numero maximo de tentativas
 MAX_TENTATIVAS = 3
